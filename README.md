@@ -15,7 +15,7 @@ The task is to predict whether an employee will be promoted or not using demogra
 ## 📈 Results
 
 - **Public Leaderboard F1 Score:** `0.4796`
-- **Leaderboard Rank:** `#1804`
+- **Leaderboard Rank:** `#1805`
 
 ## 📄 Files Included
 
